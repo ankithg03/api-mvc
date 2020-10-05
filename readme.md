@@ -1,5 +1,5 @@
 # Content
-1. Api
+1. Api & Routing - {base-folder}/index.php
 	1. /api/notify - stores data like post, server data and current time & date
 	2. /api/view - views the data which is saved via `/api/notify` api
 ![alt text](api-notify.png "Post in api")
